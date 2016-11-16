@@ -1,0 +1,10 @@
+watch - 20
+bike - 30
+dishset - 50
+shoes - 15
+tv - 250
+laptop - 250
+diningroomset - 200
+chainsaw - 150
+drill - 80
+shotgun - 200
